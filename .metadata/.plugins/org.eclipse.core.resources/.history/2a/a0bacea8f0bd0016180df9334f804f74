@@ -1,0 +1,5 @@
+package th.go.webservicelearning.webservice;
+
+public class HelloWorld {
+
+}

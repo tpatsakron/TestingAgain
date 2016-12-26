@@ -1,0 +1,7 @@
+127.0.0.1 - - [13/Dec/2016:15:12:25 +0700] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [13/Dec/2016:15:28:49 +0700] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [13/Dec/2016:15:28:50 +0700] "GET /CrunchifyRESTJerseyExample/ HTTP/1.1" 404 1005
+127.0.0.1 - - [13/Dec/2016:15:31:16 +0700] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [13/Dec/2016:15:49:40 +0700] "GET /CrunchifyRESTJerseyExample/crunchify/ctofservice/ HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [13/Dec/2016:15:49:40 +0700] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [13/Dec/2016:15:50:24 +0700] "GET /CrunchifyRESTJerseyExample/crunchify/ctofservice/ HTTP/1.1" 404 949

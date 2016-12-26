@@ -1,0 +1,5 @@
+127.0.0.1 - - [16/Dec/2016:10:43:57 +0700] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [16/Dec/2016:10:43:58 +0700] "GET /CrunchifyRESTJerseyExample/ HTTP/1.1" 404 1005
+0:0:0:0:0:0:0:1 - - [16/Dec/2016:10:45:23 +0700] "GET /CrunchifyRESTJerseyExample/rest/ctofservice HTTP/1.1" 200 157
+0:0:0:0:0:0:0:1 - - [16/Dec/2016:10:46:05 +0700] "GET /CrunchifyRESTJerseyExample/rest/ctofservice/6 HTTP/1.1" 200 155
+0:0:0:0:0:0:0:1 - - [16/Dec/2016:10:46:26 +0700] "GET /CrunchifyRESTJerseyExample/rest/ctofservice/test HTTP/1.1" 200 156

@@ -1,0 +1,413 @@
+2559-12-13 15:00:29,080 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:00:32,439 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.7/plexus-io-2.0.7.pom
+2559-12-13 15:00:34,233 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.7/plexus-io-2.0.7.pom
+2559-12-13 15:00:35,078 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.4.1/plexus-archiver-2.4.1.pom
+2559-12-13 15:00:35,730 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.4.1/plexus-archiver-2.4.1.pom
+2559-12-13 15:00:37,953 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.pom
+2559-12-13 15:00:40,435 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.pom
+2559-12-13 15:00:41,254 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.2/xstream-parent-1.4.2.pom
+2559-12-13 15:00:44,308 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.2/xstream-parent-1.4.2.pom
+2559-12-13 15:00:46,370 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.7/plexus-io-2.0.7.jar
+2559-12-13 15:00:51,937 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.7/plexus-io-2.0.7.jar
+2559-12-13 15:00:52,607 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.4.1/plexus-archiver-2.4.1.jar
+2559-12-13 15:00:55,867 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.4.1/plexus-archiver-2.4.1.jar
+2559-12-13 15:00:57,399 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.jar
+2559-12-13 15:01:03,599 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.jar
+2559-12-13 15:01:09,988 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:01:10,012 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:01:10,019 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:01:10,028 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:01:10,098 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrunchifyRESTJerseyExample/src
+2559-12-13 15:01:10,154 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CrunchifyRESTJerseyExample/src/test/java because it overlaps with /CrunchifyRESTJerseyExample/src
+2559-12-13 15:01:11,896 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2559-12-13 15:01:12,073 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:01:12,220 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:01:12,223 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:01:12,225 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:01:12,226 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:01:12,352 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:01:12,662 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrunchifyRESTJerseyExample/src
+2559-12-13 15:01:12,663 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CrunchifyRESTJerseyExample/src/test/java because it overlaps with /CrunchifyRESTJerseyExample/src
+2559-12-13 15:01:13,646 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:01:13,937 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:01:13,941 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:01:13,944 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:01:13,946 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:01:13,946 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CrunchifyRESTJerseyExample
+2559-12-13 15:01:13,954 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CrunchifyRESTJerseyExample
+2559-12-13 15:01:14,110 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:01:14,243 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2559-12-13 15:01:14,309 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2559-12-13 15:01:15,282 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:01:15,306 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:01:15,364 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:01:15,424 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:01:32,517 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:01:33,098 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-bundle/1.19/jersey-bundle-1.19.pom
+2559-12-13 15:01:34,681 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-bundle/1.19/jersey-bundle-1.19.pom
+2559-12-13 15:01:35,511 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-project/1.19/jersey-project-1.19.pom
+2559-12-13 15:01:37,468 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-project/1.19/jersey-project-1.19.pom
+2559-12-13 15:01:38,285 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.pom
+2559-12-13 15:01:39,694 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.pom
+2559-12-13 15:01:40,227 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/json/json/20140107/json-20140107.pom
+2559-12-13 15:01:41,737 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/json/json/20140107/json-20140107.pom
+2559-12-13 15:01:42,733 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.19/jersey-server-1.19.pom
+2559-12-13 15:01:44,500 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.19/jersey-server-1.19.pom
+2559-12-13 15:01:45,708 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.19/jersey-core-1.19.pom
+2559-12-13 15:01:46,834 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.19/jersey-core-1.19.pom
+2559-12-13 15:01:47,554 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-bundle/1.19/jersey-bundle-1.19.jar
+2559-12-13 15:01:57,660 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-bundle/1.19/jersey-bundle-1.19.jar
+2559-12-13 15:01:58,152 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar
+2559-12-13 15:02:01,155 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar
+2559-12-13 15:02:02,506 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/json/json/20140107/json-20140107.jar
+2559-12-13 15:02:04,691 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/json/json/20140107/json-20140107.jar
+2559-12-13 15:02:05,284 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.19/jersey-server-1.19.jar
+2559-12-13 15:02:14,003 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.19/jersey-server-1.19.jar
+2559-12-13 15:02:15,106 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.19/jersey-core-1.19.jar
+2559-12-13 15:02:18,135 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.19/jersey-core-1.19.jar
+2559-12-13 15:02:22,969 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:02:22,971 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:02:22,973 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:02:22,975 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:02:22,975 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CrunchifyRESTJerseyExample
+2559-12-13 15:02:22,976 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CrunchifyRESTJerseyExample
+2559-12-13 15:02:22,981 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:05:06,821 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:05:06,860 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:05:06,866 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:05:06,868 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:05:54,388 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:05:54,395 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:05:54,412 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:05:54,417 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:09:57,298 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:09:57,339 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:09:57,380 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:09:57,398 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:10:25,008 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:10:25,008 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:10:25,016 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:10:25,024 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:11:08,748 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:11:08,748 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:11:08,748 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:11:08,756 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:11:11,969 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:11:11,970 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:11:11,973 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:11:11,978 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:12:05,781 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2559-12-13 15:12:06,028 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:12:06,030 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:12:06,030 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:12:06,030 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:12:47,951 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2559-12-13 15:12:48,286 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:12:48,920 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrunchifyRESTJerseyExample/src
+2559-12-13 15:12:48,928 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CrunchifyRESTJerseyExample/src/test/java because it overlaps with /CrunchifyRESTJerseyExample/src
+2559-12-13 15:12:50,061 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:12:50,217 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2559-12-13 15:12:50,224 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2559-12-13 15:12:50,627 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:12:50,649 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:12:50,652 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:12:50,659 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:13:16,270 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2559-12-13 15:14:59,770 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2559-12-13 15:16:06,671 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample
+2559-12-13 15:16:06,671 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2559-12-13 15:22:16,635 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:22:16,739 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:22:16,747 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:22:16,755 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:22:25,484 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2559-12-13 15:22:25,624 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:22:25,995 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrunchifyRESTJerseyExample/src
+2559-12-13 15:22:25,995 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CrunchifyRESTJerseyExample/src/test/java because it overlaps with /CrunchifyRESTJerseyExample/src
+2559-12-13 15:22:26,524 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:22:26,747 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2559-12-13 15:22:26,751 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2559-12-13 15:22:27,046 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:22:27,053 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:22:27,055 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:22:27,063 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:22:33,157 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2559-12-13 15:22:42,341 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample
+2559-12-13 15:22:42,341 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2559-12-13 15:24:19,134 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:24:19,142 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:24:19,150 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:24:19,150 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:25:46,230 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample
+2559-12-13 15:25:46,230 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2559-12-13 15:25:49,164 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:25:49,164 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:25:49,172 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:25:49,172 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:25:57,272 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2559-12-13 15:26:03,918 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample
+2559-12-13 15:26:03,920 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2559-12-13 15:26:42,517 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-bundle/1.19/jersey-bundle-1.19-sources.jar
+2559-12-13 15:26:48,063 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-bundle/1.19/jersey-bundle-1.19-sources.jar
+2559-12-13 15:26:48,343 [Worker-28] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.jersey:jersey-bundle:1.19
+2559-12-13 15:26:48,750 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:26:48,750 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:26:48,750 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:26:48,758 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:28:18,056 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2559-12-13 15:28:18,541 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:28:18,561 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:28:18,562 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:28:18,580 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:29:29,644 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:29:29,644 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:29:29,652 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:29:29,652 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:30:12,554 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:30:12,914 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:30:12,915 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:30:12,919 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:30:12,923 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:30:12,925 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CrunchifyRESTJerseyExample
+2559-12-13 15:30:12,925 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CrunchifyRESTJerseyExample
+2559-12-13 15:30:12,955 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:30:38,043 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:30:38,231 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:30:38,239 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:30:38,239 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:30:38,239 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:30:38,239 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CrunchifyRESTJerseyExample
+2559-12-13 15:30:38,239 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CrunchifyRESTJerseyExample
+2559-12-13 15:30:38,247 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:30:39,745 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:30:39,770 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:30:39,773 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:30:39,777 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:31:02,694 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:31:02,929 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:31:02,931 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:31:02,933 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:31:02,934 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:31:02,935 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CrunchifyRESTJerseyExample
+2559-12-13 15:31:02,935 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CrunchifyRESTJerseyExample
+2559-12-13 15:31:02,944 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:31:04,537 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:31:04,543 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:31:04,545 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:31:04,567 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:31:49,139 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2559-12-13 15:31:54,575 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample
+2559-12-13 15:31:54,583 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2559-12-13 15:32:28,510 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2559-12-13 15:32:28,764 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:32:29,060 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrunchifyRESTJerseyExample/src
+2559-12-13 15:32:29,060 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CrunchifyRESTJerseyExample/src/test/java because it overlaps with /CrunchifyRESTJerseyExample/src
+2559-12-13 15:32:30,267 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:32:30,445 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2559-12-13 15:32:30,449 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2559-12-13 15:32:30,707 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:32:30,723 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:32:30,723 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:32:30,731 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:32:43,240 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2559-12-13 15:32:43,534 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:32:43,702 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrunchifyRESTJerseyExample/src
+2559-12-13 15:32:43,702 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CrunchifyRESTJerseyExample/src/test/java because it overlaps with /CrunchifyRESTJerseyExample/src
+2559-12-13 15:32:44,588 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:32:45,015 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2559-12-13 15:32:45,031 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2559-12-13 15:32:45,547 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:32:45,547 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:32:45,547 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:32:45,547 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:32:57,192 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2559-12-13 15:32:59,051 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample
+2559-12-13 15:32:59,059 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2559-12-13 15:33:37,691 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2559-12-13 15:33:51,918 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2559-12-13 15:33:57,711 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample
+2559-12-13 15:33:57,719 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2559-12-13 15:34:54,298 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2559-12-13 15:35:03,281 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample
+2559-12-13 15:35:03,281 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2559-12-13 15:38:58,301 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2559-12-13 15:38:58,546 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:38:58,601 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:38:58,607 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:38:58,628 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:39:19,757 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2559-12-13 15:39:36,635 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample
+2559-12-13 15:39:36,635 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2559-12-13 15:41:07,242 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:41:07,250 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:41:07,250 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:41:07,258 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:43:12,967 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:43:13,319 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:43:13,322 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:43:13,326 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:43:13,329 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:43:13,332 [Worker-37] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CrunchifyRESTJerseyExample
+2559-12-13 15:43:13,333 [Worker-37] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CrunchifyRESTJerseyExample
+2559-12-13 15:43:13,343 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:43:21,454 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2559-12-13 15:43:21,718 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:43:21,726 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:43:21,726 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:43:21,750 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:43:42,963 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2559-12-13 15:43:43,259 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:43:43,493 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrunchifyRESTJerseyExample/src
+2559-12-13 15:43:43,493 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CrunchifyRESTJerseyExample/src/test/java because it overlaps with /CrunchifyRESTJerseyExample/src
+2559-12-13 15:43:43,933 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:43:44,037 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2559-12-13 15:43:44,037 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2559-12-13 15:43:44,500 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:43:44,500 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:43:44,508 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:43:44,516 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:44:00,937 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2559-12-13 15:44:08,435 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample
+2559-12-13 15:44:08,435 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2559-12-13 15:50:41,905 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2559-12-13 15:50:42,229 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:50:42,986 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrunchifyRESTJerseyExample/src
+2559-12-13 15:50:42,988 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CrunchifyRESTJerseyExample/src/test/java because it overlaps with /CrunchifyRESTJerseyExample/src
+2559-12-13 15:50:43,365 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:50:43,538 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2559-12-13 15:50:43,541 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2559-12-13 15:50:44,244 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:50:44,325 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:50:44,359 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:50:44,364 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:50:50,877 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2559-12-13 15:50:57,516 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample
+2559-12-13 15:50:57,524 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2559-12-13 15:58:01,872 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2559-12-13 15:58:02,198 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:58:02,243 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:58:02,263 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:58:02,333 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:58:11,364 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2559-12-13 15:58:11,556 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:58:11,974 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrunchifyRESTJerseyExample/src
+2559-12-13 15:58:11,975 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CrunchifyRESTJerseyExample/src/test/java because it overlaps with /CrunchifyRESTJerseyExample/src
+2559-12-13 15:58:12,377 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 15:58:12,578 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrunchifyRESTJerseyExample
+2559-12-13 15:58:12,585 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2559-12-13 15:58:12,855 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:58:12,871 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 15:58:12,872 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 15:58:12,876 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 15:58:21,361 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2559-12-13 15:58:29,384 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample
+2559-12-13 15:58:29,385 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2559-12-13 16:01:07,815 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:01:07,818 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 16:01:07,821 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:01:07,822 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 16:01:13,568 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:01:13,571 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 16:01:13,575 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:01:13,580 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 16:01:21,667 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:01:21,671 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 16:01:21,674 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:01:21,676 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 16:01:31,474 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:01:31,515 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 16:01:31,515 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:01:31,515 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 16:04:22,589 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:04:22,669 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 16:04:22,677 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:04:22,701 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 16:04:27,959 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:04:27,967 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 16:04:27,967 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:04:27,991 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 16:04:59,147 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:04:59,153 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 16:04:59,157 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:04:59,160 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 16:07:19,655 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-13 16:07:20,688 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:07:20,690 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 16:07:20,693 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:07:20,697 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 16:07:20,698 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CrunchifyRESTJerseyExample
+2559-12-13 16:07:20,700 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CrunchifyRESTJerseyExample
+2559-12-13 16:07:20,727 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:07:22,878 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:07:22,909 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 16:07:22,911 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:07:22,912 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 16:07:27,141 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:07:27,144 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 16:07:27,154 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:07:27,172 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 16:07:31,210 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:07:31,223 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 16:07:31,227 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:07:31,237 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 16:07:41,056 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:07:41,155 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 16:07:41,162 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:07:41,166 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 16:07:48,040 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:07:48,041 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 16:07:48,042 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:07:48,043 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 16:09:32,744 [Worker-50] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.8/jersey-server-1.8-sources.jar
+2559-12-13 16:09:36,665 [Worker-50] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.8/jersey-server-1.8-sources.jar
+2559-12-13 16:09:36,981 [Worker-50] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.jersey:jersey-server:1.8
+2559-12-13 16:09:37,389 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:09:37,395 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 16:09:37,399 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:09:37,402 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-13 16:10:42,420 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:10:42,450 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-13 16:10:42,455 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-13 16:10:42,480 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-16 10:11:01,164 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-16 10:11:03,664 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-16 10:11:19,476 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-16 10:11:19,490 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-16 10:11:19,501 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-16 10:11:19,518 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-16 10:11:21,001 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CrunchifyRESTJerseyExample:CrunchifyRESTJerseyExample:0.0.1-SNAPSHOT @ C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\pom.xml.
+2559-12-16 10:11:21,839 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-16 10:11:21,848 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-16 10:11:21,850 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-16 10:11:21,861 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-16 10:42:59,603 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2559-12-16 10:43:06,359 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample
+2559-12-16 10:43:06,359 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2559-12-16 10:43:45,659 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-16 10:43:45,814 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-16 10:43:45,829 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-16 10:43:45,841 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-16 10:43:48,992 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-16 10:43:48,992 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-16 10:43:49,008 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-16 10:43:49,023 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-16 10:44:44,565 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-16 10:44:44,581 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-16 10:44:44,612 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-16 10:44:44,659 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-21 09:46:06,471 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-21 09:46:06,503 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-21 09:46:06,518 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-21 09:46:06,534 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-21 09:46:07,750 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-21 09:46:07,765 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-21 09:46:07,781 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-21 09:46:07,797 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-26 10:23:39,874 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-26 10:23:39,934 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-26 10:23:39,943 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-26 10:23:39,968 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
+2559-12-26 10:23:41,208 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-26 10:23:41,232 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\main\resources
+2559-12-26 10:23:41,237 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS874 actually) to copy filtered resources, i.e. build is platform dependent!
+2559-12-26 10:23:41,263 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NooPrae\workspace\CrunchifyRESTJerseyExample\src\test\resources
